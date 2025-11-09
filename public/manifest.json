@@ -14,5 +14,8 @@
   "permissions": ["sidePanel"],
   "action": {
     "default_title": "Open Side Panel"
+  },
+  "background": {
+    "service_worker": "background.js"
   }
 }
